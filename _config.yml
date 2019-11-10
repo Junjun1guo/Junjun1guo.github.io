@@ -67,7 +67,7 @@ chrome-tab-theme-color: "#000000"
 service-worker: true
 
 # Links
-friends: [
+Links: [
     {
         title: "google Scholar",
         href: "https://scholar.google.com/citations?user=KbBZTrYAAAAJ&hl=en"
