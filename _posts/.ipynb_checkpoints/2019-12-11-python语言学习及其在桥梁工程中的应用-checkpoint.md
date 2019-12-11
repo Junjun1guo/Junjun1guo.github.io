@@ -1,0 +1,10 @@
+---
+layout:     post
+title:      开通个人博客啦
+subtitle:   分享知识，交流沟通
+date:       2019-11-11
+author:     Junjun Guo
+header-img: postImg/20191111/headIMG.jpg
+catalog: true
+---
+## 前言
