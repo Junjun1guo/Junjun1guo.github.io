@@ -67,7 +67,7 @@ chrome-tab-theme-color: "#000000"
 service-worker: true
 
 # FRIENDS
-links: [
+#links: [
     #{
         #title: "google Scholar",
         #href: "https://scholar.google.com/citations?user=KbBZTrYAAAAJ&hl=en"
@@ -76,8 +76,8 @@ links: [
         #title: "ORCID",
         #href: "https://orcid.org/0000-0001-9867-414X"
     #}
-    {
-        title: "github",
-        href: "https://github.com/Junjun1guo"
+    #{
+        #title: "github",
+        #href: "https://github.com/Junjun1guo"
     #}
-]
+#]
